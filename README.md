@@ -42,8 +42,10 @@ docs/                   report PDF, charts, build guide, performance record
 ```
 
 ## Links (fill in)
-- Tableau Public dashboard: ADD LINK
+- Tableau Public dashboard: https://public.tableau.com/app/profile/paridhi.sharma4119/viz/EV_Market_Performance_Market_Story_2026-10-25_17931234374410/EVExecutiveDashboard
+- Story Link:https://public.tableau.com/app/profile/paridhi.sharma4119/viz/EV_Market_Performance_Market_Story_2026-10-25_17931234374410/EVExecutiveDashboard
 - Demo video: ADD LINK
+- Website Link: https://evinsights-brown.vercel.app
 
 ## Note on the data
 The dataset is synthetic: models listed per year, regional totals and battery range are almost uniform.
