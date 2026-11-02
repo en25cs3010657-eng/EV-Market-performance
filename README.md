@@ -44,7 +44,7 @@ docs/                   report PDF, charts, build guide, performance record
 ## Links (fill in)
 - Tableau Public dashboard: https://public.tableau.com/app/profile/paridhi.sharma4119/viz/EV_Market_Performance_Market_Story_2026-10-25_17931234374410/EVExecutiveDashboard
 - Story Link:https://public.tableau.com/app/profile/paridhi.sharma4119/viz/EV_Market_Performance_Market_Story_2026-10-25_17931234374410/EVExecutiveDashboard
-- Demo video: ADD LINK
+- Demo video:https://drive.google.com/file/d/13N8ASsAj3WwBlxmGRNgaHMMecpYh2ug0/view?usp=sharing
 - Website Link: https://evinsights-brown.vercel.app
 
 ## Note on the data
